@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Learning Assistant – Emotion Detection & Personalized Learning Support Platform
 
 An end-to-end, academic-grade AI web application that understands student emotional states from written descriptions of coursework difficulties and delivers tailored pedagogical support via Google Gemini Generative AI and dual deep learning models (PyTorch BiLSTM and BERT Transformer).
@@ -194,3 +195,7 @@ Follow these steps to deploy this application online:
 
 ## 🎓 Academic Evaluation Project Summary
 Developed as an end-to-end Academic Capstone Demonstration. Combines classical sequence recurrent networks (BiLSTM), state-of-the-art transformer contextual representations (BERT), rule-based postprocessing, and large language model pedagogical planning (Google Gemini).
+=======
+# ai-learning-assistant
+learing assistant in ai 
+>>>>>>> 945dd504716cd5240a68bc1e08cc37d7452af0e2
