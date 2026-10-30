@@ -1,0 +1,226 @@
+text,emotion,split,length
+This tutorial is far too slow and repetitive for me to stay alert.,BORED,train,13
+Losing focus because the slides are just endless bullet points with zero interaction.,BORED,train,13
+I feel disengaged from this course; every assignment feels like a boring chore.,BORED,train,13
+"I can't bring myself to care about this assignment, it's so unimaginative.",BORED,train,12
+I feel like I am just passing time rather than learning anything exciting.,BORED,train,13
+"I am studying purely for the exam, not because the content is engaging at all.",BORED,train,15
+Doing these endless repetitive practice drills is putting me to sleep.,BORED,train,11
+I am tired of doing the same basic calculator exercise over and over again.,BORED,train,14
+Just staring at these syntax rules without building anything fun feels tedious.,BORED,train,12
+The lecture has been dragging on for two hours with zero engaging examples.,BORED,train,13
+"The teacher just reads monotone slides line by line, it is completely boring.",BORED,train,13
+I keep checking the clock waiting for this lecture to finally conclude.,BORED,train,12
+This course has become a repetitive drag with no new concepts to think about.,BORED,train,14
+I feel bored out of my mind doing basic variable assignment drills.,BORED,train,12
+Reading 80 pages of pure text with no diagrams is thoroughly uninspiring.,BORED,train,12
+Nothing about this database normalization chapter catches my attention or excitement.,BORED,train,11
+Looking at this 200-page PDF manual is putting me right to sleep.,BORED,train,12
+My mind is constantly wandering because this reading assignment is so monotonous.,BORED,train,12
+I cannot find any enthusiasm to sit through another lecture on basic data types.,BORED,train,14
+"I have lost all passion for this elective subject, it is utterly dull.",BORED,train,13
+Why can't we build actual projects instead of memorizing these dry tables?,BORED,train,12
+I have no interest in doing another static HTML page with zero styling or logic.,BORED,train,15
+Writing boilerplate boilerplate code is draining all my energy.,BORED,train,9
+"I have been studying Python for hours, but I am losing interest.",BORED,train,12
+The instructor is speaking in a flat monotone tone that puts the entire class to sleep.,BORED,train,16
+I am bored studying these definitions; there is no practical problem to solve.,BORED,train,13
+I feel totally unmotivated to continue reading this documentation.,BORED,train,9
+"Studying this module is an absolute snooze fest, I am zoning out every ten minutes.",BORED,train,15
+"I am completely disconnected from the lecture today, finding it totally dry.",BORED,train,12
+"This textbook chapter is so dry and repetitive, I can barely keep my eyes open.",BORED,train,15
+Nothing here excites me; it feels like bureaucratic homework.,BORED,train,9
+"Sitting through this lab session is so monotonous, nobody is engaged.",BORED,train,11
+I am completely uninterested in memorizing these historical dates and formulas.,BORED,train,11
+Solving the same arithmetic problem with different numbers is tedious busywork.,BORED,train,11
+"This material is too simple and repetitive, I want something actually interesting.",BORED,train,12
+Every slide looks identical to the last one; I am mentally exhausted from boredom.,BORED,train,14
+This topic feels completely irrelevant and boring to my practical goals.,BORED,val,11
+I am just copying code blindly without feeling any intellectual spark.,BORED,val,11
+These homework assignments are mechanical and do not challenge my brain at all.,BORED,val,13
+The class moves at an agonizingly dull pace today.,BORED,val,9
+Why do we have to learn this obsolete framework? It feels so unexciting.,BORED,test,13
+I find this theoretical proof so dull and devoid of any real-world application.,BORED,test,13
+It feels like mindless memorization without any stimulating challenge.,BORED,test,9
+There is zero excitement in memorizing sorting algorithm steps without coding them.,BORED,test,12
+I am losing my focus; reading about memory registers is thoroughly boring.,BORED,test,12
+I solved the entire algorithmic challenge ahead of time without any errors.,CONFIDENT,train,12
+I understand the concept of machine learning and can implement it.,CONFIDENT,train,11
+I feel on top of my coursework and consistently hitting my academic milestones.,CONFIDENT,train,13
+I feel ready to tackle senior-level engineering projects without supervision.,CONFIDENT,train,10
+I feel confident in my ability to optimize this query for large datasets.,CONFIDENT,train,13
+I aced the lab assignment in under twenty minutes with zero assistance.,CONFIDENT,train,12
+"I wrote clean, modular code with unit tests and all test cases passed on the first run.",CONFIDENT,train,17
+I have complete control over the application state and architecture.,CONFIDENT,train,10
+I feel totally prepared and ready to ace tomorrow's programming exam.,CONFIDENT,train,11
+I can easily debug race conditions in concurrent threads now.,CONFIDENT,train,10
+The code refactoring went smoothly and performance improved by 40 percent.,CONFIDENT,train,11
+I understand asynchronous JavaScript and event loop mechanisms deeply.,CONFIDENT,train,9
+I have full confidence in my final year project architecture and code quality.,CONFIDENT,train,13
+I sailed through the coding assessment and found every edge case intuitively.,CONFIDENT,train,12
+I successfully trained and deployed the model with high precision and recall.,CONFIDENT,train,12
+I crushed the practice mock test and scored 95 percent without hesitation.,CONFIDENT,train,12
+I mastered regex patterns and can parse complex log files effortlessly.,CONFIDENT,train,11
+Everything we learned today connected directly with what I already knew.,CONFIDENT,train,11
+I know exactly what tools to use to solve this engineering bottleneck.,CONFIDENT,train,12
+The concepts of containerization and Docker networks are second nature to me.,CONFIDENT,train,12
+I can explain this statistical theory clearly to any of my classmates.,CONFIDENT,train,12
+I understand graph traversal algorithms like BFS and DFS inside and out.,CONFIDENT,train,12
+I have a crystal clear understanding of Bayes theorem and conditional probability.,CONFIDENT,train,12
+I am confident I can design and build this full-stack application within a week.,CONFIDENT,train,14
+The concepts of object-oriented design and inheritance are crystal clear to me.,CONFIDENT,train,12
+The proof for this linear algebra theorem was straightforward and elegant.,CONFIDENT,train,11
+I built the REST API completely from scratch and it works flawlessly.,CONFIDENT,train,12
+I feel ready to take on the most difficult competitive programming problems.,CONFIDENT,train,12
+I have no doubt in my capability to explain transformers to my study group.,CONFIDENT,train,14
+I feel empowered by how well I understand gradient descent optimization.,CONFIDENT,train,11
+This physics problem set was easy to solve using conservation of energy laws.,CONFIDENT,train,13
+I feel thoroughly prepared for technical interviews in software engineering.,CONFIDENT,train,10
+I understand pointer arithmetic in C and can manage dynamic memory safely.,CONFIDENT,train,12
+I am confident in my analytical reasoning and mathematical deductions.,CONFIDENT,train,10
+My grasp of discrete mathematics gives me total clarity in algorithm design.,CONFIDENT,train,12
+Debugging this distributed system was straightforward once I traced the logs.,CONFIDENT,train,11
+I have a solid grasp of how backpropagation computes gradients in neural networks.,CONFIDENT,val,13
+The math behind eigenvalues and eigenvectors finally clicked perfectly.,CONFIDENT,val,9
+I feel proud of my solution and know it is optimal in both time and space.,CONFIDENT,val,16
+I have mastered dynamic programming and solved all the hard problems easily.,CONFIDENT,val,12
+I can implement quicksort and mergesort from memory without looking at notes.,CONFIDENT,test,12
+I feel very comfortable designing relational database schemas for complex systems.,CONFIDENT,test,11
+The logic behind asymptotic time complexity Big-O notation is fully intuitive to me.,CONFIDENT,test,13
+I know exactly how to structure the microservices for high throughput.,CONFIDENT,test,11
+Everything in this calculus chapter makes complete sense to me now.,CONFIDENT,test,11
+The distinction between supervised and unsupervised learning is confusing to me.,CONFUSED,train,11
+I cannot understand the difference between L1 and L2 regularization in regression.,CONFUSED,train,12
+I am confused about the difference between thread safety and atomic operations.,CONFUSED,train,12
+I don't know when to use a stack versus a queue for depth-first searches.,CONFUSED,train,14
+I do not understand how public key cryptography mathematically guarantees security.,CONFUSED,train,11
+I don't get why my loss function is increasing instead of decreasing.,CONFUSED,train,12
+I don't understand the relationship between standard deviation and variance intuitively.,CONFUSED,train,11
+I cannot figure out how to structure my database relationships properly.,CONFUSED,train,11
+What is the actual difference between an interface and an abstract class?,CONFUSED,train,12
+Why does multiplying these two matrices require their inner dimensions to match?,CONFUSED,train,12
+I do not understand how convolution filters detect spatial features in images.,CONFUSED,train,12
+Why does JavaScript treat NaN as a number? It is so counterintuitive.,CONFUSED,train,12
+I am totally lost in this mathematical derivation on page forty-five.,CONFUSED,train,11
+I am confused why this floating point comparison evaluates to false.,CONFUSED,train,11
+The lecture on eigenvectors left me scratching my head with no intuition.,CONFUSED,train,12
+I am confused about how Git rebasing differs from standard merging in practice.,CONFUSED,train,13
+I am confused whether this graph problem requires Dijkstra or Bellman-Ford.,CONFUSED,train,11
+I am totally lost on how pointers and memory addresses interact in C++.,CONFUSED,train,13
+I am puzzled by how the operating system handles virtual memory and page faults.,CONFUSED,train,14
+I am bewildered by this mathematical notation with multiple nested summations.,CONFUSED,train,11
+I am confused about why we need Docker when we already have virtual environments.,CONFUSED,train,14
+What does this error message mean? The stack trace doesn't make any sense.,CONFUSED,train,13
+Why is the time complexity of lookup in a hash table average O(1) instead of worst-case?,CONFUSED,train,16
+I am confused about how TCP handles packet retransmission during congestion.,CONFUSED,train,11
+The explanation of monads in functional programming makes zero sense to me.,CONFUSED,train,12
+I cannot figure out why my component does not re-render when state changes.,CONFUSED,train,13
+I do not understand the intuition behind maximum likelihood estimation.,CONFUSED,train,10
+I cannot understand why the test accuracy is so much lower than training accuracy.,CONFUSED,train,14
+I don't understand why this loop never terminates and causes an overflow.,CONFUSED,train,12
+I am puzzled why my CSS grid doesn't align items horizontally as expected.,CONFUSED,train,13
+"I do not grasp how the attention mechanism computes keys, queries, and values.",CONFUSED,train,13
+Why does this SQL join return duplicate records when I grouped the columns?,CONFUSED,train,13
+I am struggling to comprehend how backpropagation handles vanishing gradients.,CONFUSED,train,10
+I am lost in the instructor's explanation of NP-complete problems.,CONFUSED,train,10
+I keep getting confused between covariance and contravariance in types.,CONFUSED,train,10
+I am puzzled by how closures capture variables in the lexical scope.,CONFUSED,train,12
+I don't understand how this recursive tree splits into subproblems.,CONFUSED,val,10
+I don't understand how Fourier transforms convert signals into frequency domains.,CONFUSED,val,11
+I am so confused by the proof for the pumping lemma in automata theory.,CONFUSED,val,14
+I am struggling to see the logic behind dynamic programming memoization tables.,CONFUSED,val,12
+I am unable to understand recursion in Python.,CONFUSED,test,8
+I am baffled by quantum superposition; the textbook explanation is contradictory.,CONFUSED,test,11
+The terminology in this research paper is so dense that I cannot follow the argument.,CONFUSED,test,15
+How does gradient boosting differ from random forests? I keep mixing them up.,CONFUSED,test,13
+I am lost on how to set up the boundary conditions for this differential equation.,CONFUSED,test,15
+What makes graph neural networks so powerful for molecular drug discovery?,CURIOUS,train,11
+I want to investigate how swarm robotics coordinates without a central leader.,CURIOUS,train,12
+I am fascinated by how blockchain achieves decentralized consensus without trust.,CURIOUS,train,11
+I want to experiment with building my own custom programming language from scratch.,CURIOUS,train,13
+I want to dive into functional reactive programming and state streams.,CURIOUS,train,11
+I want to investigate how recommendation systems predict user preferences so accurately.,CURIOUS,train,12
+How does memory allocation work in garbage-collected languages like Go and Java?,CURIOUS,train,12
+I want to explore advanced distributed algorithms like Raft and Paxos consensus.,CURIOUS,train,12
+I want to read more research papers on transformer attention optimization.,CURIOUS,train,11
+I am fascinated by non-Euclidean geometry and its applications in cosmology.,CURIOUS,train,11
+How does CRISPR gene editing find exact sequences inside living cells?,CURIOUS,train,11
+I am eager to dive deeper into reinforcement learning and agent decision making.,CURIOUS,train,13
+I am curious about how high-frequency trading platforms execute trades in nanoseconds.,CURIOUS,train,12
+How do WebAssembly runtimes achieve near-native performance inside browsers?,CURIOUS,train,9
+I want to explore how topological data analysis extracts shape from point clouds.,CURIOUS,train,13
+I wonder how cryptographic hashing functions guarantee mathematical collision resistance.,CURIOUS,train,10
+I am excited to find out how generative adversarial networks produce realistic art.,CURIOUS,train,13
+I am really curious about how large language models generate coherent text.,CURIOUS,train,12
+What are the most promising alternatives to the standard backpropagation algorithm?,CURIOUS,train,11
+I want to know how operating systems prevent buffer overflow vulnerabilities.,CURIOUS,train,11
+I am excited to understand how physics engines simulate cloth and fluid dynamics.,CURIOUS,train,13
+What happens at the silicon hardware level when a CPU executes an instruction?,CURIOUS,train,13
+What is the mathematical proof that shows P equals or does not equal NP?,CURIOUS,train,14
+I am curious to explore how caching hierarchies in modern CPUs minimize latency.,CURIOUS,train,13
+How does natural language processing handle sarcasm and subtle cultural nuances?,CURIOUS,train,11
+I am curious whether we can train deep models with significantly less labeled data.,CURIOUS,train,14
+I am excited to experiment with fine-tuning open-source vision-language models.,CURIOUS,train,10
+I want to explore the mathematical foundation behind quantum computing.,CURIOUS,train,10
+I want to learn how edge AI devices run quantized neural nets with minimal power.,CURIOUS,train,15
+I am intrigued by how zero-knowledge proofs verify truth without revealing secrets.,CURIOUS,train,12
+I am curious about the societal and ethical implications of autonomous AI agents.,CURIOUS,train,13
+"How do self-driving cars fuse lidar, radar, and camera sensor inputs together?",CURIOUS,train,12
+I want to build a small robotic system to test computer vision algorithms.,CURIOUS,train,13
+I wonder if there is an intuitive geometric interpretation of complex numbers.,CURIOUS,train,12
+I wonder what breakthroughs are happening in room-temperature superconductivity.,CURIOUS,train,9
+I am eager to understand how cellular automata generate complex emergent behavior.,CURIOUS,train,12
+How does AlphaFold predict 3D protein structures directly from amino acid sequences?,CURIOUS,val,12
+I want to understand the inner workings of compilers and abstract syntax trees.,CURIOUS,val,13
+How do modern database engines optimize query execution plans under the hood?,CURIOUS,val,12
+I want to know more about neuromorphic computing chips that mimic biological neurons.,CURIOUS,val,13
+I am keen to discover how modern game engines render photorealistic lighting in real time.,CURIOUS,test,15
+I am interested in exploring how neuroscience inspires new machine learning architectures.,CURIOUS,test,12
+I wonder how search engines index billions of web pages in milliseconds.,CURIOUS,test,12
+I want to learn more about how neural networks work.,CURIOUS,test,10
+How does the Linux kernel schedule processes across multi-core processors?,CURIOUS,test,10
+I spent all night fixing merge conflicts only for the remote branch to get overwritten.,FRUSTRATED,train,15
+I am so exasperated with this group project where nobody else writes any code.,FRUSTRATED,train,14
+I am so sick and tired of this obscure dependency conflict breaking my build.,FRUSTRATED,train,14
+Everything is failing and I am at my absolute wits' end with this code.,FRUSTRATED,train,14
+"I have re-read this paragraph ten times and I still cannot make any sense of it, it is driving me mad.",FRUSTRATED,train,21
+I feel like throwing my laptop out the window because of this stupid pointer bug.,FRUSTRATED,train,15
+"I don't understand why this formula doesn't match the textbook answer, it makes no sense!",FRUSTRATED,train,15
+I tried every solution on StackOverflow and none of them worked for my problem.,FRUSTRATED,train,14
+"No matter what hyperparameters I tweak, the validation loss refuses to decrease.",FRUSTRATED,train,12
+I have been debugging this concurrency deadlock for days and I am ready to quit.,FRUSTRATED,train,15
+I have reached my limit with this assignment and feel like giving up entirely.,FRUSTRATED,train,14
+I am furious that my local environment works perfectly but production fails completely.,FRUSTRATED,train,13
+Why is C++ memory management so unforgiving? I am completely fed up.,FRUSTRATED,train,12
+I hate how difficult it is to configure webpack and babel for this frontend project.,FRUSTRATED,train,15
+"I have tried solving this programming problem many times, but nothing works.",FRUSTRATED,train,12
+I keep getting stuck on this one calculus problem and no explanation helps.,FRUSTRATED,train,13
+I am burnt out and furious that my pull request was rejected without explanation.,FRUSTRATED,train,14
+I am hitting a brick wall with this math assignment and I am completely stressed out.,FRUSTRATED,train,16
+"I followed the documentation step by step, yet the application still crashes instantly.",FRUSTRATED,train,13
+Why does this query take twenty minutes to execute on a tiny table? It is infuriating.,FRUSTRATED,train,16
+I am tired of struggling through this broken course platform that constantly logs me out.,FRUSTRATED,train,15
+I have spent six hours trying to fix this segmentation fault and I am going crazy.,FRUSTRATED,train,16
+I have rewritten this algorithm three times and it still fails the hidden test cases.,FRUSTRATED,train,15
+The grading rubric is completely unfair and impossible to satisfy.,FRUSTRATED,train,10
+I am beyond frustrated with this cryptic error message that provides zero context.,FRUSTRATED,train,13
+Every single tutorial online uses deprecated code that no longer functions.,FRUSTRATED,train,11
+"This simulator keeps crashing every single time I press run, it is totally broken.",FRUSTRATED,train,14
+The professor gave us an assignment on material we were never taught in lecture.,FRUSTRATED,train,14
+This legacy codebase has zero comments and is a completely unreadable mess.,FRUSTRATED,train,12
+"This framework is bloated, overcomplicated, and infuriating to work with.",FRUSTRATED,train,10
+"I am so sick of dealing with version mismatches between Python, CUDA, and PyTorch.",FRUSTRATED,train,14
+Nothing I do produces the expected output and I am losing my patience.,FRUSTRATED,train,13
+"This IDE keeps freezing and losing my unsaved changes, it is infuriating.",FRUSTRATED,train,12
+My model training crashed at epoch 99 out of 100 with an out of memory error!,FRUSTRATED,train,16
+Why can't this package just work out of the box without fifteen breaking dependencies?,FRUSTRATED,train,14
+I am fed up with trying to debug this asynchronous race condition that only happens sometimes.,FRUSTRATED,train,16
+I have asked three teaching assistants and none of them know how to fix this bug.,FRUSTRATED,val,16
+I am so angry that my code worked yesterday and completely broke today with zero changes.,FRUSTRATED,val,16
+I feel overwhelmed and angry because the deadline is tonight and my tests are failing.,FRUSTRATED,val,15
+"This environment setup is a nightmare, nothing installs properly on my machine.",FRUSTRATED,val,12
+I am tearing my hair out trying to figure out why this API returns a 500 error.,FRUSTRATED,test,17
+I am so stressed that I can't sleep because this project won't compile.,FRUSTRATED,test,13
+"Nothing compiles, every time I fix one error five new errors appear!",FRUSTRATED,test,12
+I am sick of dealing with silent failures where the program exits with no error code.,FRUSTRATED,test,16
+I wasted my whole weekend on a single missing semicolon in this configuration file.,FRUSTRATED,test,14

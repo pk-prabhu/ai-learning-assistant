@@ -1,0 +1,2 @@
+timestamp,student_text,subject,primary_emotion,confidence,secondary_emotion,secondary_confidence,bilstm_emotion,bert_emotion,is_mixed,gemini_source,study_approach
+2026-10-30 19:31:38,Test student input query.,Computer Science,CONFUSED,0.3683,CURIOUS,0.6030,CURIOUS,CURIOUS,Yes,Offline Pedagogical Engine (Gemini Disabled by Toggle),"The Feynman Technique & Step-by-Step State Tracing (Deconstruct into plain English, draw diagrams, trace memory)."
